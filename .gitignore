@@ -1,0 +1,13 @@
+# Ignore all files
+*
+
+# Whitelist specific files
+!.gitignore
+!src/echo_client.c
+!src/liso_server.c
+!Makefile
+!.git/
+!src/
+
+!samples/
+!samples/**     
